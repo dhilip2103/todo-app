@@ -128,13 +128,11 @@ Replace with your actual Firebase Hosting URL.
 
 ---
 
-# 📸 Screenshots
-
-## 📸 Screenshots
+# 📸 Screenshotss
 
 | Login | 
 |--------|-----------|
-| ![](screenshots/Login.png) 
+| ![](assets/screenshots/Login.png) 
 
 | Create_Account | 
 |--------|-----------|
