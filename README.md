@@ -120,7 +120,9 @@ lib/
 
 ```
 https://todo-app-version1.web.app/  
-[or]  
+
+[or]
+  
 https://todo-app-version1.firebaseapp.com/
 ```
 
